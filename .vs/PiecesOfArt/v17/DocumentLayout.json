@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\apppdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\apppdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\controllers\\loyaltycardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\controllers\\loyaltycardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\piecesofartproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\piecesofartproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezzm8\\OneDrive\\Desktop\\Web api\\New folder\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212609_PieceOfArt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\models\\pieceofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\models\\pieceofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\models\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\piecesofart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\piecesofart.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\dtos\\dto_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\dtos\\dto_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\dtos\\dto_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\dtos\\dto_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\dtos\\dto_piecesofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\dtos\\dto_piecesofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\dtos\\dto_loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\dtos\\dto_loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\repo\\pieceofartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\repo\\pieceofartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\repo\\loyaltycardrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\repo\\loyaltycardrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\repo\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\repo\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\migrations\\20241026110555_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\migrations\\20241026110555_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\controllers\\pieceofartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\controllers\\pieceofartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\interface\\iloyaltycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\interface\\iloyaltycardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\interface\\ipieceofartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\interface\\ipieceofartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|c:\\users\\20115\\desktop\\piecesofart\\piecesofart\\migrations\\20241025212826_pieceofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D7E586-1EFD-4A16-AAF3-D82FB23C0E0F}|PiecesOfArt\\PiecesOfArtProject.csproj|solutionrelative:piecesofart\\migrations\\20241025212826_pieceofart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\Category.cs",
+              "RelativeToolTip": "PiecesOfArt\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:54:45.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoyaltyCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\LoyaltyCardsController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Controllers\\LoyaltyCardsController.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\LoyaltyCardsController.cs",
+              "RelativeToolTip": "PiecesOfArt\\Controllers\\LoyaltyCardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:50:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategorieController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\CategorieController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Controllers\\CategorieController.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\CategorieController.cs",
+              "RelativeToolTip": "PiecesOfArt\\Controllers\\CategorieController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:50:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PiecesOfArt\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:12:22.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\User.cs",
+              "RelativeToolTip": "PiecesOfArt\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:52:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\ApppDbContext.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\ApppDbContext.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\ApppDbContext.cs",
+              "RelativeToolTip": "PiecesOfArt\\ApppDbContext.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:19:51.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PiecesOfArt\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:39:29.651Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PieceOfArt.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\PieceOfArt.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Models\\PieceOfArt.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\PieceOfArt.cs",
+              "RelativeToolTip": "PiecesOfArt\\Models\\PieceOfArt.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:54:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Program.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Program.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Program.cs",
+              "RelativeToolTip": "PiecesOfArt\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:10:07.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoyaltyCard.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\LoyaltyCard.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Models\\LoyaltyCard.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Models\\LoyaltyCard.cs",
+              "RelativeToolTip": "PiecesOfArt\\Models\\LoyaltyCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:54:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PiecesOfArtProject",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\PiecesOfArtProject.csproj",
+              "RelativeDocumentMoniker": "PiecesOfArt\\PiecesOfArtProject.csproj",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\PiecesOfArtProject.csproj",
+              "RelativeToolTip": "PiecesOfArt\\PiecesOfArtProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T12:33:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PiecesOfArt.http",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\PiecesOfArt.http",
+              "RelativeDocumentMoniker": "PiecesOfArt\\PiecesOfArt.http",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\PiecesOfArt.http",
+              "RelativeToolTip": "PiecesOfArt\\PiecesOfArt.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T11:09:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dto_Category.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Category.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\DTOs\\Dto_Category.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Category.cs",
+              "RelativeToolTip": "PiecesOfArt\\DTOs\\Dto_Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:49:03.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\appsettings.json",
+              "RelativeDocumentMoniker": "PiecesOfArt\\appsettings.json",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\appsettings.json",
+              "RelativeToolTip": "PiecesOfArt\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T21:08:18.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dto_User.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_User.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\DTOs\\Dto_User.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_User.cs",
+              "RelativeToolTip": "PiecesOfArt\\DTOs\\Dto_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:20.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dto_Piecesofart.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Piecesofart.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\DTOs\\Dto_Piecesofart.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Piecesofart.cs",
+              "RelativeToolTip": "PiecesOfArt\\DTOs\\Dto_Piecesofart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:03.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dto_Loyaltycard.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Loyaltycard.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\DTOs\\Dto_Loyaltycard.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\DTOs\\Dto_Loyaltycard.cs",
+              "RelativeToolTip": "PiecesOfArt\\DTOs\\Dto_Loyaltycard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:45.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Userrepo.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\Userrepo.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Repo\\Userrepo.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\Userrepo.cs",
+              "RelativeToolTip": "PiecesOfArt\\Repo\\Userrepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:52:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "pieceOfArtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\pieceOfArtRepository.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Repo\\pieceOfArtRepository.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\pieceOfArtRepository.cs",
+              "RelativeToolTip": "PiecesOfArt\\Repo\\pieceOfArtRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:20:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoyaltyCardRepository .cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\LoyaltyCardRepository .cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Repo\\LoyaltyCardRepository .cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\LoyaltyCardRepository .cs",
+              "RelativeToolTip": "PiecesOfArt\\Repo\\LoyaltyCardRepository .cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:28:24.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository .cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\CategoryRepository .cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Repo\\CategoryRepository .cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Repo\\CategoryRepository .cs",
+              "RelativeToolTip": "PiecesOfArt\\Repo\\CategoryRepository .cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:28:00.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241026110555_s.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241026110555_s.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Migrations\\20241026110555_s.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241026110555_s.cs",
+              "RelativeToolTip": "PiecesOfArt\\Migrations\\20241026110555_s.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:05:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PieceOfArtsController.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\PieceOfArtsController.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Controllers\\PieceOfArtsController.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Controllers\\PieceOfArtsController.cs",
+              "RelativeToolTip": "PiecesOfArt\\Controllers\\PieceOfArtsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:49:01.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILoyaltyCardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\ILoyaltyCardRepository.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Interface\\ILoyaltyCardRepository.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\ILoyaltyCardRepository.cs",
+              "RelativeToolTip": "PiecesOfArt\\Interface\\ILoyaltyCardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:25:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "PiecesOfArt\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:24:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPieceOfArtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\IPieceOfArtRepository.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Interface\\IPieceOfArtRepository.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\IPieceOfArtRepository.cs",
+              "RelativeToolTip": "PiecesOfArt\\Interface\\IPieceOfArtRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:24:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "PiecesOfArt\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:08:18.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241025212826_PieceOfArt.cs",
+              "DocumentMoniker": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212826_PieceOfArt.cs",
+              "RelativeDocumentMoniker": "PiecesOfArt\\Migrations\\20241025212826_PieceOfArt.cs",
+              "ToolTip": "C:\\Users\\20115\\Desktop\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212826_PieceOfArt.cs",
+              "RelativeToolTip": "PiecesOfArt\\Migrations\\20241025212826_PieceOfArt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:28:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241025212609_PieceOfArt.cs",
+              "DocumentMoniker": "C:\\Users\\ezzm8\\OneDrive\\Desktop\\Web api\\New folder\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212609_PieceOfArt.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ezzm8\\OneDrive\\Desktop\\Web api\\New folder\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212609_PieceOfArt.cs",
+              "ToolTip": "C:\\Users\\ezzm8\\OneDrive\\Desktop\\Web api\\New folder\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212609_PieceOfArt.cs",
+              "RelativeToolTip": "..\\..\\..\\ezzm8\\OneDrive\\Desktop\\Web api\\New folder\\PiecesOfArt\\PiecesOfArt\\Migrations\\20241025212609_PieceOfArt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:26:09.339Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
